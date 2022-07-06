@@ -1,0 +1,5 @@
+#Parameter	Value	Fit	Min	Max	Error	
+	0.0000e+00	False	0.0000e+00	0.0000e+00	-	
+Sub.setSigma	2.9668e+00	True	2.2500e+00	3.7500e+00	-	
+Sub.setDens	3.3430e-02	False	2.5073e-02	4.1788e-02	-	
+inst.setI0	9.0124e-01	True	7.5000e-01	1.2500e+00	-	

@@ -10,3 +10,6 @@ The script ```batch_genx.py``` is a condensed script without all the details fro
 
 ## howto_parameters
 Explains what are the different parameters in the GUI.
+
+## examples
+Temporary, should be redone in the future.
